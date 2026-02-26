@@ -20,3 +20,9 @@ Day 2:
 - Numeric conversion
 - Aggregations
 - GitHub documentation workflow
+
+Day 3:
+- Category performance analysis
+- Statistical filtering
+- Rating vs volume insights
+- Marketplace behaviour observations
