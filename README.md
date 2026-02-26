@@ -12,3 +12,11 @@
 - Dataset ingestion
 - SQL exploration
 - First GitHub commit
+
+## Progress Log
+
+Day 2:
+- Data cleaning
+- Numeric conversion
+- Aggregations
+- GitHub documentation workflow
