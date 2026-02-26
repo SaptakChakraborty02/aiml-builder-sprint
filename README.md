@@ -33,3 +33,10 @@ Day 4:
 - Review volume vs rating stabilization
 - Currency cleaning and numeric conversion
 - Product perception insights
+
+## Day 5
+- Product intelligence analysis
+- Popular but low-rated product detection
+- Hidden gem identification
+- Discount vs rating correlation
+- Category trust scoring
