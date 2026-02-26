@@ -30,6 +30,3 @@ Understand dataset structure and clean numeric columns for analysis.
 - Text vs numeric matters
 - Real datasets are messy
 - Cleaning comes before analytics
-
-## What Still Feels Unclear
-(write 1 honest sentence)
