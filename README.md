@@ -26,3 +26,10 @@ Day 3:
 - Statistical filtering
 - Rating vs volume insights
 - Marketplace behaviour observations
+
+Day 4:
+- Price vs rating analysis
+- Discount vs rating analysis
+- Review volume vs rating stabilization
+- Currency cleaning and numeric conversion
+- Product perception insights
